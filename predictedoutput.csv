@@ -1,19 +1,19 @@
-ID,account_id,Nature_of_Transaction,amount_usd,date_general_ledger
-0,550385,Collection from debtors,0,05-07-2024
-1,550385,Commission Received,0,05-07-2024
-2,550385,Interest Paid,0,05-07-2024
-3,550385,Investment Decrease,0,05-07-2024
-4,550385,Investment Increase,0,05-07-2024
-5,550385,POS Sales,0,05-07-2024
-6,550385,Rent Received,0,05-07-2024
-7,550385,Royalties,0,05-07-2024
-8,550385,Vendor Payments,0,05-07-2024
-9,550406,Collection from debtors,0,05-07-2024
-10,550406,Commission Received,0,05-07-2024
-11,550406,Interest Paid,0,05-07-2024
-12,550406,Investment Decrease,0,05-07-2024
-13,550406,Investment Increase,0,05-07-2024
-14,550406,POS Sales,0,05-07-2024
-15,550406,Royalties,0,05-07-2024
-16,550406,Scrap Sale,0,05-07-2024
-17,550406,Vendor Payments,0,05-07-2024
+ID,account_id,Nature_of_Transaction,amount_usd
+0,550385,Collection from debtors,0
+1,550385,Commission Received,0
+2,550385,Interest Paid,0
+3,550385,Investment Decrease,0
+4,550385,Investment Increase,0
+5,550385,POS Sales,0
+6,550385,Rent Received,0
+7,550385,Royalties,0
+8,550385,Vendor Payments,0
+9,550406,Collection from debtors,0
+10,550406,Commission Received,0
+11,550406,Interest Paid,0
+12,550406,Investment Decrease,0
+13,550406,Investment Increase,0
+14,550406,POS Sales,0
+15,550406,Royalties,0
+16,550406,Scrap Sale,0
+17,550406,Vendor Payments,0
