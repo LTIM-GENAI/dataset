@@ -1,19 +1,19 @@
-ID,account_id,Nature_of_Transaction,amount_usd
-0,550385,Collection from debtors,0
-1,550385,Commission Received,0
-2,550385,Interest Paid,0
-3,550385,Investment Decrease,0
-4,550385,Investment Increase,0
-5,550385,POS Sales,0
-6,550385,Rent Received,0
-7,550385,Royalties,0
-8,550385,Vendor Payments,0
-9,550406,Collection from debtors,0
-10,550406,Commission Received,0
-11,550406,Interest Paid,0
-12,550406,Investment Decrease,0
-13,550406,Investment Increase,0
-14,550406,POS Sales,0
-15,550406,Royalties,0
-16,550406,Scrap Sale,0
-17,550406,Vendor Payments,0
+ID,account_id,Nature_of_Transaction,amount_usd,date_general_ledger
+0,550385,Collection from debtors,4194888220,5112024
+1,550385,Commission Received,66344950.03,5112024
+2,550385,Interest Paid,-110727.68,5112024
+3,550385,Investment Decrease,16568600000,5112024
+4,550385,Investment Increase,-13309825859,5112024
+5,550385,POS Sales,56247573.04,5112024
+6,550385,Rent Received,140541.4,5112024
+7,550385,Royalties,180426104.5,5112024
+8,550385,Vendor Payments,-8135750686,5112024
+9,550406,Collection from debtors,23778522192,5112024
+10,550406,Commission Received,4743242.6,5112024
+11,550406,Interest Paid,-28831.36,5112024
+12,550406,Investment Decrease,11928100000,5112024
+13,550406,Investment Increase,-18820100000,5112024
+14,550406,POS Sales,4041224.02,5112024
+15,550406,Royalties,176338727,5112024
+16,550406,Scrap Sale,43374.82,5112024
+17,550406,Vendor Payments,-22765464878,5112024
